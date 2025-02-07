@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react-spa-seo/static/css/main.17c04e9c.css",
-    "main.js": "/react-spa-seo/static/js/main.a53e0038.js",
+    "main.js": "/react-spa-seo/static/js/main.84a3d8c0.js",
     "static/js/453.098a16cf.chunk.js": "/react-spa-seo/static/js/453.098a16cf.chunk.js",
     "index.html": "/react-spa-seo/index.html",
     "main.17c04e9c.css.map": "/react-spa-seo/static/css/main.17c04e9c.css.map",
-    "main.a53e0038.js.map": "/react-spa-seo/static/js/main.a53e0038.js.map",
+    "main.84a3d8c0.js.map": "/react-spa-seo/static/js/main.84a3d8c0.js.map",
     "453.098a16cf.chunk.js.map": "/react-spa-seo/static/js/453.098a16cf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.17c04e9c.css",
-    "static/js/main.a53e0038.js"
+    "static/js/main.84a3d8c0.js"
   ]
 }
